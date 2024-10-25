@@ -1,6 +1,7 @@
 
 import './App.css';
 import Healthcare from './Healthcare';
+import React from 'react';
 
 function App() {
   return (
